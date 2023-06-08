@@ -1,4 +1,1 @@
-The odin project recipes note
-# odinrecipes
-
-Go to recipes [here](/recipes).
+This is a recipe note made using html and CSS.
